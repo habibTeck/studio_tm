@@ -1,17 +1,14 @@
-# studio_tm
+# studio_tm project 
 
-A new Flutter project.
+Application used to publish Songs For Wedding this
 
-## Getting Started
+application I created to Company that merge popular song with Client Names.
+Tools
+Flutter , Firebase Realtime , Firebase Storage , Animation , Adobe XD for Design Concepts
+Audio Streaming
 
-This project is a starting point for a Flutter application.
+images
 
-A few resources to get you started if this is your first Flutter project:
+user app 
+![alt text](http://url/to/img.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# studio_tm
