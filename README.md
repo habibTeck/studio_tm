@@ -7,6 +7,11 @@ Tools
 Flutter , Firebase firestore , Firebase Storage , Animation , Adobe XD for Design Concepts
 Audio Streaming
 
+# try app 
+user app and admin app
+https://drive.google.com/drive/folders/1zv7DntCmd57XyFz4a407mklYVGBjQRBi?usp=share_link
+
+
 images
 # MVVM
 
