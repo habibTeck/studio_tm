@@ -1,16 +1,16 @@
 # studio_tm project 
 
-Application used to publish Songs For Wedding this
+Application used to publish Songs For Wedding 
+this application  created for Company that merge popular song with Client Names.
 
-application I created to Company that merge popular song with Client Names.
 Tools
-Flutter , Firebase Realtime , Firebase Storage , Animation , Adobe XD for Design Concepts
+Flutter , Firebase firestore , Firebase Storage , Animation , Adobe XD for Design Concepts
 Audio Streaming
 
 images
 # MVVM
-<img width="331" alt="Screen Shot 2023-05-02 at 8 19 09 PM" src="https://user-images.githubusercontent.com/102364205/235744738-7575ec2d-d00c-42dd-8d3c-537621744620.png">
 
+<img width="331" alt="Screen Shot 2023-05-02 at 8 52 07 PM" src="https://user-images.githubusercontent.com/102364205/235746133-5d544b66-6169-4527-bc62-1ade9a63666e.png">
 
 # user app 
 
